@@ -7,7 +7,7 @@ with [inbar-r](https://github.com/inbar-r)
 
 <h2>Description</h2>
 Implemention of a version of the normalized spectral clustering algorithm. <br />
-Given a set of n datapoints (vectors), and (optional) number of clusters, k, the algorithm finds k if neeeded and and using k-means algorithm, to determine k centroids.
+Given a set of n datapoints (vectors), and (optional) number of clusters, k, the algorithm finds k if neeeded and and uses k-means algorithm, to determine k centroids.
 <br />
 
 
