@@ -4,6 +4,7 @@ final projcet in "Software Project" course, Tel Aviv University, 2022
 <br />
 with [inbar-r](https://github.com/inbar-r)
 <br />
+Grade: 96 :ok_hand: graded for code modularity, design, readability, and performance
 
 <h2>Description</h2>
 Implementation of a version of the normalized spectral clustering algorithm. <br />
