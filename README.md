@@ -8,7 +8,7 @@ Grade: 96 :ok_hand: graded for code modularity, design, readability, and perform
 
 <h2>Description</h2>
 Implementation of a version of the normalized spectral clustering algorithm. <br />
-Given a set of n datapoints (vectors), and (optional) number of clusters, k, the algorithm finds k if neeeded and and uses k-means algorithm, to determine k centroids.
+Given a set of n datapoints (vectors), and (optional) number of clusters, k, the algorithm finds k if needed and uses k-means algorithm, to determine k centroids.
 <br />
 
 
