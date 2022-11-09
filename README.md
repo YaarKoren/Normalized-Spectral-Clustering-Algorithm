@@ -1,6 +1,6 @@
 <h1>Normalized Spectral Clustering Algorithm</h1>
 
-final projcet in "Software Project" course, Tel Aviv University, 2022
+"Software Project" course final project, Tel Aviv University, 2022
 <br />
 with [inbar-r](https://github.com/inbar-r)
 <br />
